@@ -17,4 +17,5 @@
 Если вы серьезный дядя в черном костюме, то можете написать на почту: cryptodedinside@proton.me
 
 [Политика конфиденциальности](https://biscuitlov3r.github.io/tonsigndocs/privacy)<br>
-[Условия использования](https://biscuitlov3r.github.io/tonsigndocs/terms)
+[Условия использования](https://biscuitlov3r.github.io/tonsigndocs/terms)<br>
+[Исходный код](https://github.com/biscuitlov3r/tonsign)
