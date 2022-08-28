@@ -14,7 +14,8 @@
 ### Как с вами связаться?
 
 Если хочется поболтать или задать вопрос, пишите в [Telegram](https://t.me/askmeaboutsomething).<br>
-Если вы серьезный дядя в черном костюме, то можете написать на почту: cryptodedinside@proton.me
+Если вы серьезный дядя в черном костюме, то можете написать на почту: cryptodedinside@proton.me<br>
+Еще одна наша почта: team@tonsign.ru
 
 [Политика конфиденциальности](https://biscuitlov3r.github.io/tonsigndocs/privacy)<br>
 [Условия использования](https://biscuitlov3r.github.io/tonsigndocs/terms)<br>
