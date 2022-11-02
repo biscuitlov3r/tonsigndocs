@@ -7,6 +7,7 @@
 
 Телеграм канал нашего жетона: [дединсайдкоин](https://t.me/dedinsidecoin)<br>
 Наш телеграм [канал](https://t.me/fckthecensor)
+Наш [твиттер](https://twitter.com/fckthecensor)
 
 ### Как вас поддержать?
 
@@ -17,7 +18,6 @@
 Если хочется поболтать или задать вопрос, пишите в [Telegram](https://t.me/askmeaboutsomething).<br>
 Если вы серьезный дядя в черном костюме, то можете написать на почту: cryptodedinside@proton.me<br>
 Еще одна наша почта: team@tonsign.ru<br>
-Пишите в [твиттере](http://twitter.com/elina3837)
 
 [Политика конфиденциальности](https://biscuitlov3r.github.io/tonsigndocs/privacy)<br>
 [Условия использования](https://biscuitlov3r.github.io/tonsigndocs/terms)<br>
