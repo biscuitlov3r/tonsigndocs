@@ -1,3 +1,5 @@
+Мы запускаем [Netance](https://netance.ru) - действительно децентрализованную соц-сеть на блокчейне TON!
+
 # Кто стоит за TONSIGN?
 
 Криптоэнтузиасты с повышенным ~~чувством справедливости~~ чсв.<br>
@@ -5,9 +7,9 @@
 
 ### А что еще у вас есть?
 
-Телеграм канал нашего жетона: [дединсайдкоин](https://t.me/dedinsidecoin)<br>
-Наш телеграм [канал](https://t.me/fckthecensor)<br>
-Наш [твиттер](https://twitter.com/fckthecensor)
+[Наш Telegram канал на русском](https://t.me/dedinsidecoin)<br>
+[Our Telegram channel in english](https://t.me/fckthecensor)<br>
+[Our Twitter](https://twitter.com/fckthecensor)
 
 ### Как вас поддержать?
 
