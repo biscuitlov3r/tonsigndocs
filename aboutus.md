@@ -1,4 +1,5 @@
-Мы запускаем [Netance](https://netance.ru) - действительно децентрализованную соц-сеть на блокчейне TON!
+TON Foundation пытается ограничить ранним майнерам доступ к их кошелькам и установить цензуру в блокчейне.<br>
+[Протестуйте](https://t.me/toncoin_rus/678) против этого решения.
 
 # Кто стоит за TONSIGN?
 
@@ -7,9 +8,10 @@
 
 ### А что еще у вас есть?
 
-[Наш Telegram канал на русском](https://t.me/dedinsidecoin)<br>
+[Наш Telegram канал на русском](https://t.me/wedocoolstuff)<br>
 [Our Telegram channel in english](https://t.me/fckthecensor)<br>
-[Our Twitter](https://twitter.com/fckthecensor)
+[Our Twitter](https://twitter.com/fckthecensor)<br><br>
+[Netance](https://netance.ru) - первая соц-сеть на блокчейне TON с настоящей децентрализацией.
 
 ### Как вас поддержать?
 
